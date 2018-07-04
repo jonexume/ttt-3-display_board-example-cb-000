@@ -9,5 +9,3 @@ def display_board
   print  "-----------"
   print  " #{cell[6]} | #{cell[7]} | #{cell[8]} "
 end
-
-
