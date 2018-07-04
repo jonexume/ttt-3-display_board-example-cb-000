@@ -10,4 +10,4 @@ def display_board
   print  " #{cell[6]} | #{cell[7]} | #{cell[8]} "
 end
 
-display_board(cell)
+
