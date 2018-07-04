@@ -3,9 +3,7 @@
 
 
 def display_board
-  print  "    |    |    "
-  print  "-----------"
-  print  "    |    |    "
-  print  "-----------"
-  print  "    |    |    "
+
+
+  print "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   "
 end
