@@ -2,7 +2,7 @@
 
 
 
-def display_board(cell)
+def display_board
   print  ("   ", |, "   ", |, "   ")
   print  "-----------"
   print  ("   ", |, "   ", |, "   ")
@@ -10,4 +10,4 @@ def display_board(cell)
   print  ("   ", |, "   ", |, "   ")
 end
 
-display_board(cell)
+
